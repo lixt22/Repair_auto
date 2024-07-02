@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.387,C:\Users\User\Desktop\Методичка\прога\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,C:\Users\User\Desktop\Методичка\прога\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.497,=C:\Users\User\Desktop\Методичка\прога\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,C:\Users\User\Documents\Embarcadero\Studio\Projects\1\Unit2.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,C:\Users\User\Desktop\Методичка\прога\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,=C:\Users\User\Desktop\Методичка\прога\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,=C:\Users\User\Desktop\Методичка\прога\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,C:\Users\User\Desktop\Методичка\прога\Repair_cost.dproj=C:\Users\User\Desktop\Методичка\прога\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.126,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,C:\Users\User\Documents\Embarcadero\Studio\Projects\1\Unit2.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.580,=C:\Users\User\Desktop\Методичка\прога\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.827,=C:\Users\User\Desktop\Методичка\прога\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,C:\Users\User\Desktop\Методичка\прога\Unit3.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,=C:\Users\User\Desktop\Методичка\прога\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,=F:\Прога и база\На русском\прога\Unit8.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
